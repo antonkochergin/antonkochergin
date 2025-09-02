@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Антон</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я являюсь студентом второго курса СГУ+им. Н. Г. Чернышевского факультета компьюторных наук и инфоормационных технологий</h3>
+<h3 align="center">Я являюсь студентом второго курса СГУ им. Н. Г. Чернышевского факультета компьюторных наук и инфоормационных технологий</h3>
 <h3 align="center">Интересующие темы:<h3>
   <ul>
     <li>Data science
