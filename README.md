@@ -27,21 +27,5 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/6NtgAE8yMY)
 
-<h3>Активность на GitHub:<h3>
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![](https://komarev.com/ghpvc/?username=antonkochergin)
