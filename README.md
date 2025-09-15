@@ -19,10 +19,6 @@
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<h3 >Статистика по языкам:<h3>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonkochergin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3>Прогресс  LeetCode:<h3>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/6NtgAE8yMY)
